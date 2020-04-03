@@ -1,3 +1,4 @@
 # best-repo-ever
 myfeaturebranch
-git checkout -b new-branch-1
+git push -u origin new-branch-2
+
